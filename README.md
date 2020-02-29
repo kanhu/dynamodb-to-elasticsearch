@@ -7,6 +7,7 @@ https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-aws-i
 Install the module
 
 pip install requests -t .
+
 pip install requests_aws4auth -t .
 
 
