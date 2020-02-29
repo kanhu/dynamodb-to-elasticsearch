@@ -14,3 +14,4 @@ pip install requests_aws4auth -t .
 The lambda function will get trigger by the stream from the dynamodb table. 
 The function reads the events and updates the index to elastic search.
 
+https://medium.com/@kanhu.aum/dynamodb-to-elasticsearch-eef90b97331e
